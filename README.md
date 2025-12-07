@@ -1,6 +1,6 @@
 # CodeHelper using CodeLlama-7B
 
-A **coding assistant** built with **CodeLlama-7B**,**Langchain**and **Gradio**.  
+A **coding assistant** built with **CodeLlama-7B**,**Langchain** and **Gradio**.  
 This app allows you to ask coding-related questions and get helpful answers in a conversational interface.
 
 ---
